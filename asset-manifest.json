@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/teris-game-reactjs/static/css/main.f1a271d4.css",
-    "main.js": "/teris-game-reactjs/static/js/main.295e758f.js",
-    "static/media/SoundTetris.mp3": "/teris-game-reactjs/static/media/SoundTetris.6d759fec9dc3820a9d14.mp3",
-    "static/media/bg.png": "/teris-game-reactjs/static/media/bg.d63cfd51f1a63591fdd7.png",
-    "static/media/SoundClearRow.mp3": "/teris-game-reactjs/static/media/SoundClearRow.889a4d59babaae32ec05.mp3",
-    "static/media/SoundGameOver.mp3": "/teris-game-reactjs/static/media/SoundGameOver.75314bd1dbc7843a6699.mp3",
-    "static/media/SoundMerged.mp3": "/teris-game-reactjs/static/media/SoundMerged.47f284e0a8ebaaa955f9.mp3",
-    "static/media/Pixel-LCD-7.woff": "/teris-game-reactjs/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
-    "index.html": "/teris-game-reactjs/index.html",
-    "main.f1a271d4.css.map": "/teris-game-reactjs/static/css/main.f1a271d4.css.map",
-    "main.295e758f.js.map": "/teris-game-reactjs/static/js/main.295e758f.js.map"
+    "main.css": "/Teris-Game-ReactJS/static/css/main.5c9d899c.css",
+    "main.js": "/Teris-Game-ReactJS/static/js/main.e1d33542.js",
+    "static/media/SoundTetris.mp3": "/Teris-Game-ReactJS/static/media/SoundTetris.6d759fec9dc3820a9d14.mp3",
+    "static/media/bg.png": "/Teris-Game-ReactJS/static/media/bg.d63cfd51f1a63591fdd7.png",
+    "static/media/SoundClearRow.mp3": "/Teris-Game-ReactJS/static/media/SoundClearRow.889a4d59babaae32ec05.mp3",
+    "static/media/SoundGameOver.mp3": "/Teris-Game-ReactJS/static/media/SoundGameOver.75314bd1dbc7843a6699.mp3",
+    "static/media/SoundMerged.mp3": "/Teris-Game-ReactJS/static/media/SoundMerged.47f284e0a8ebaaa955f9.mp3",
+    "static/media/Pixel-LCD-7.woff": "/Teris-Game-ReactJS/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
+    "index.html": "/Teris-Game-ReactJS/index.html",
+    "main.5c9d899c.css.map": "/Teris-Game-ReactJS/static/css/main.5c9d899c.css.map",
+    "main.e1d33542.js.map": "/Teris-Game-ReactJS/static/js/main.e1d33542.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1a271d4.css",
-    "static/js/main.295e758f.js"
+    "static/css/main.5c9d899c.css",
+    "static/js/main.e1d33542.js"
   ]
 }
