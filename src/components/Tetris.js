@@ -32,7 +32,7 @@ const Tetris = () => {
 
     const [player, updatePlayerPos, resetPlayer, playerRotate] = usePlayer();
     const [stage, setStage, rowsClear] = useStage(player, resetPlayer, audioTetrisClearRow);
-    const [score, setScore, rows, setRows, level, setLevel] = useGameStatus(rowsClear/2);
+    const [score, setScore, rows, setRows, level, setLevel] = useGameStatus(rowsClear);
     // rowsClear/2 là do bị re-render nên có double, đây là giải pháp tạm thời
 
     const startGame = () => {

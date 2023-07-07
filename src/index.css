@@ -67,9 +67,10 @@ main {
     font-size: 1.2rem;
     font-weight: bold;
     background: #363f8f8e;
+    user-select: none;
   }
 
   .btn-middle > button {
     margin: 0 30px;
-  }
+  }  
 }
