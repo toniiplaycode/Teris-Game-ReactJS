@@ -1,5 +1,5 @@
 import { StyledCell } from "./styles/StyledCell";
-import { TETROMINOS, randomTetromino } from "./tetromios";
+import { TETROMINOS } from "./tetromios";
 
 const Cell = ({type}) => {
     return(

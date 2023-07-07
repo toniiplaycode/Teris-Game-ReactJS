@@ -102,15 +102,15 @@ const Tetris = () => {
 
     const move = ({keyCode}, click) => {
         if (!gameOver) {
-            if (keyCode === 37 || click == 37 ) {
+            if (keyCode === 37 || click === 37 ) {
               movePlayer(-1);
-            } else if (keyCode === 39 || click == 39) {
+            } else if (keyCode === 39 || click === 39) {
               movePlayer(1);
             } else if (keyCode === 40) {
               dropPlayer();
             } else if (click === 40) {
                 dropPlayerMobile();
-            } else if (keyCode === 38 || click == 38) { 
+            } else if (keyCode === 38 || click === 38) { 
                 playerRotate(stage, 1);
             }
         }
