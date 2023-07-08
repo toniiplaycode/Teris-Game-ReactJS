@@ -1,4 +1,5 @@
 import {useState } from 'react';
+import ReactAudioPlayer from 'react-audio-player';
 
 // assets
 import soundTetris from '../assets/SoundTetris.mp3';
@@ -27,6 +28,7 @@ const Tetris = () => {
     const [dropTime, setDropTime] = useState(null);
     const [gameOver, setGameOver] = useState(false);
     
+    const audioTetris = document.querySelector(".audio-tetris");
     const audioTetrisClearRow = document.querySelector(".audio-tetris-clear-row");
     const audioTetrisMerged = document.querySelector(".audio-tetris-merged");
 
@@ -45,7 +47,6 @@ const Tetris = () => {
         setRows(0);
         setLevel(1);
         if(!gameOver) {
-            const audioTetris = document.querySelector(".audio-tetris");
             audioTetris.play();
         }
     }
@@ -72,7 +73,9 @@ const Tetris = () => {
                 setDropTime(null);
             }
             updatePlayerPos({x: 0, y: 0, collided: true});
+            audioTetris.pause();
             audioTetrisMerged.play();
+            audioTetris.play();
         }
     }
 
