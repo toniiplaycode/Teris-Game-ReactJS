@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Teris-Game-ReactJS/static/css/main.40c83008.css",
-    "main.js": "/Teris-Game-ReactJS/static/js/main.a8053f5e.js",
+    "main.css": "/Teris-Game-ReactJS/static/css/main.0a116cef.css",
+    "main.js": "/Teris-Game-ReactJS/static/js/main.cc903194.js",
     "static/media/SoundTetris.mp3": "/Teris-Game-ReactJS/static/media/SoundTetris.6d759fec9dc3820a9d14.mp3",
     "static/media/bg.png": "/Teris-Game-ReactJS/static/media/bg.d63cfd51f1a63591fdd7.png",
     "static/media/SoundClearRow.mp3": "/Teris-Game-ReactJS/static/media/SoundClearRow.889a4d59babaae32ec05.mp3",
@@ -9,11 +9,11 @@
     "static/media/SoundMerged.mp3": "/Teris-Game-ReactJS/static/media/SoundMerged.47f284e0a8ebaaa955f9.mp3",
     "static/media/Pixel-LCD-7.woff": "/Teris-Game-ReactJS/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
     "index.html": "/Teris-Game-ReactJS/index.html",
-    "main.40c83008.css.map": "/Teris-Game-ReactJS/static/css/main.40c83008.css.map",
-    "main.a8053f5e.js.map": "/Teris-Game-ReactJS/static/js/main.a8053f5e.js.map"
+    "main.0a116cef.css.map": "/Teris-Game-ReactJS/static/css/main.0a116cef.css.map",
+    "main.cc903194.js.map": "/Teris-Game-ReactJS/static/js/main.cc903194.js.map"
   },
   "entrypoints": [
-    "static/css/main.40c83008.css",
-    "static/js/main.a8053f5e.js"
+    "static/css/main.0a116cef.css",
+    "static/js/main.cc903194.js"
   ]
 }
