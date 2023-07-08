@@ -73,9 +73,7 @@ const Tetris = () => {
                 setDropTime(null);
             }
             updatePlayerPos({x: 0, y: 0, collided: true});
-            audioTetris.pause();
             audioTetrisMerged.play();
-            audioTetris.play();
         }
     }
 
