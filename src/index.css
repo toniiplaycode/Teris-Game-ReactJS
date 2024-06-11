@@ -76,11 +76,7 @@ main {
   }
 
   .btn-move-mobile button:hover {
-    background: rgba(204, 164, 79, 0.8);
-    border-top-color:  rgba(204, 164, 79, 1);
-    border-right-color:  rgba(204, 164, 79, 1);
-    border-bottom-color:  rgba(204, 164, 79, 0.1);
-    border-left-color:  rgba(204, 164, 79, 0.3);
+    opacity: 0.6;
   }
 
   .btn-middle > button {
